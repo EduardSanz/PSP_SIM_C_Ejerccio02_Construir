@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ejerccio02_Construir:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ejerccio02_Construir_jar</output-path>
+    <root id="archive" name="Ejerccio02_Construir.jar">
+      <element id="module-output" name="Ejerccio02_Construir" />
+    </root>
+  </artifact>
+</component>
